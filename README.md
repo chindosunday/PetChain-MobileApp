@@ -329,3 +329,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <!-- handsoff-issue-1030 -->
 - #1030: [Mobile] Add duplicate-pet detection before registration
+
+<!-- handsoff-issue-1031 -->
+- #1031: [Mobile] Add vaccination-certificate sharing preview
